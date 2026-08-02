@@ -41,5 +41,5 @@ The Titanic dataset was successfully analyzed using basic EDA techniques and upl
 
 ## Author
 
-Your Name
+Dr Sujatha Jayaraj
 GLA University
